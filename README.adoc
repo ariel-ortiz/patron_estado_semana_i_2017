@@ -1,0 +1,24 @@
+= Patrón de estado
+
+Ejemplos de código en Java para implementar el patrón de estado.
+
+- *Ejemplo torniquete*: Código fuente que implementa un torniquete (turnstile) usando el patrón de estado.
+- *Ejemplo robocode*: Código fuente que implementa un robot con un cañón que incrementa su potencia después de cada tiro acertado.
+
+== Bibliografía
+
+- *The State Pattern: The State of Things (Chapter 10)* +
+Elisabeth Freeman, Eric Freeman, Bert Bates, & Kathy Sierra. +
+_Head First Design Patterns._ +
+O'Reilly, 2004. ISBN: 0596007124 +
+http://proquestcombo.safaribooksonline.com/0596007124[Disponible en Safari desde la suscripción del ITESM CEM.]
+
+- *Object Behavioral: State (Chapter 5)* +
+Erich Gamma, Richard Helm, Ralph Johnson, & John M. Vlissides. +
+_Design Patterns: Elements of Reusable Object-Oriented Software._ +
+Addison-Wesley, 1994. +
+ISBN: 0201633612 +
+http://proquestcombo.safaribooksonline.com/0201633612[Disponible en Safari desde la suscripción del ITESM CEM.]
+
+Semana i, 2017: Build the best, destroy the rest! +
+Tecnológico de Monterrey, Campus Estado de México.
